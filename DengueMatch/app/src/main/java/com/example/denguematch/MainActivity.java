@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
         webView.getSettings().setAllowFileAccess(true);
         webView.getSettings().setAllowContentAccess(true);
         webView.loadUrl("https://upx5-omega.vercel.app/index.html");
-
         }
 
 
